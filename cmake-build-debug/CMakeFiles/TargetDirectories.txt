@@ -1,3 +1,0 @@
-/home/dongbo/CLionProjects/postgres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dongbo/CLionProjects/postgres/cmake-build-debug/CMakeFiles/postgres.dir
-/home/dongbo/CLionProjects/postgres/cmake-build-debug/CMakeFiles/edit_cache.dir
