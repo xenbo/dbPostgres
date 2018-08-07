@@ -1,1 +1,0 @@
-/home/dongbo/postgres/postgres-master/src/backend/utils/fmgroids.h
